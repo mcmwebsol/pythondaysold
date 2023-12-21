@@ -21,6 +21,4 @@ The program has four custom functions:
  days_old(init_date, today)
    This function returns the number of days old.  It takes two parameters as input: "init_date", which is the birth date, and "today" which is the current date.
 
-The tests are in the file test_project.py
-
 Usage: Please enter the birth date in the YYYY-MM-DD format when prompted
